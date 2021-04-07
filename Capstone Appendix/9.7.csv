@@ -1,0 +1,102 @@
+﻿Predictor,V Weight
+Total population,0.01
+Female,0.01
+Median age years,0.01
+One race White,0.01
+One race Black or African American,0.01
+One race American Indian and Alaska Native,0.01
+One race Asian Indian,0.01
+One race Asian Chinese,0.01
+One race Asian Filipino,0.01
+One race Asian Other Asian,0.01
+One race Native Hawaiian and Other Pacific Islander,0.01
+One race Some other race,0.01
+Two or more races White and Black or African American,0.01
+Two or more races White and American Indian and Alaska Native,0.01
+Two or more races White and Asian,0.01
+Two or more races Black or African American and American Indian and Alaska Native,0.01
+Hispanic or Latino of any race,0.01
+Hispanic or Latino of any race Mexican,0.01
+Hispanic or Latino of any race Puerto Rican,0.01
+Hispanic or Latino of any race Cuban,0.01
+X Total housing units,0.01
+In labor force Civilian labor force Employed,0.01
+In labor force Civilian labor force Unemployed,0.01
+In labor force Armed Forces,0.01
+Females 16 years and over,0.01
+X COMMUTING TO WORK Car  truck  or van    drove alone,0.01
+X COMMUTING TO WORK Car  truck  or van    carpooled,0.01
+X COMMUTING TO WORK Public transportation excluding taxicab,0.01
+X COMMUTING TO WORK Walked,0.01
+X COMMUTING TO WORK Worked at home,0.01
+X COMMUTING TO WORK Mean travel time to work minutes,0.01
+X OCCUPATION Management  business  science  and arts occupations,0.01
+X OCCUPATION Service occupations,0.01
+X OCCUPATION Sales and office occupations,0.01
+X OCCUPATION Natural resources  construction  and maintenance occupations,0.01
+X OCCUPATION Production  transportation  and material moving occupations,0.01
+X INDUSTRY Agriculture  forestry  fishing and hunting  and mining,0.01
+X INDUSTRY Construction,0.01
+X INDUSTRY Manufacturing,0.01
+X INDUSTRY Wholesale trade,0.01
+X INDUSTRY Retail trade,0.01
+X INDUSTRY Transportation and warehousing  and utilities,0.01
+X INDUSTRY Information,0.01
+X INDUSTRY Finance and insurance  and real estate and rental and leasing,0.01
+X INDUSTRY Professional  scientific  and management  and administrative and waste management services,0.01
+X INDUSTRY Educational services  and health care and social assistance,0.01
+X INDUSTRY Arts  entertainment  and recreation  and accommodation and food services,0.01
+X INDUSTRY Other services  except public administration,0.01
+X INDUSTRY Public administration,0.01
+X CLASS OF WORKER Private wage and salary workers,0.01
+X CLASS OF WORKER Government workers,0.01
+X CLASS OF WORKER Self employed in own not incorporated business workers,0.009
+X CLASS OF WORKER Unpaid family workers,0.01
+Total households,0.01
+With earnings Mean earnings dollars,0.01
+With Social Security,0.01
+With Social Security Mean Social Security income dollars,0.01
+With retirement income,0.01
+With Supplemental Security Income,0.01
+With cash public assistance income,0.01
+With Food Stamp SNAP benefits in the past 12 months,0.01
+Families,0.01
+Median family income dollars,0.01
+Mean family income dollars,0.01
+Per capita income dollars,0.01
+Nonfamily households,0.01
+Median nonfamily income dollars,0.01
+Mean nonfamily income dollars,0.01
+Median earnings for male full time  year round workers dollars,0.01
+Civilian noninstitutionalized population,0.01
+With health insurance coverage With private health insurance,0.01
+With health insurance coverage With public coverage,0.01
+No health insurance coverage,0.01
+Civilian noninstitutionalized population under 18 years,0.01
+Civilian noninstitutionalized population 18 to 64 years,0.01
+Urban Inside urbanized areas,0.01
+Urban Inside urban clusters,0.01
+Rural,0.01
+Male Ed Less Than High School,0.01
+Male Ed High School Graduated,0.01
+Male Ed Some College Or Associates,0.01
+Male Ed Bachelors Degree Or Higher,0.01
+Female Ed Less Than High School,0.01
+Female Ed High School Graduated,0.01
+Female Ed Some College Or Associates,0.01
+Female Ed Bachelors Degree Or Higher,0.01
+total votes x,0.01
+republican vote percent x,0.01
+democrat vote percent x,0.01
+Age 0 To 9,0.01
+Age 10 To 19,0.01
+Age 20 To 24,0.01
+Age 25 To 44,0.01
+Age 45 To 64,0.01
+Age 65 To 44,0.01
+Income 0k 25k,0.01
+Income 25k 50k,0.01
+Income 50k 75k,0.01
+Income 75k 100k,0.01
+Income 100k 200k,0.01
+Income Over 200k,0.01
